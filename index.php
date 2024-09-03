@@ -7,6 +7,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <h1>SUCA STE :)</h1>
 </body>
 </php>
