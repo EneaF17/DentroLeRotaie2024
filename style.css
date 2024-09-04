@@ -1,3 +1,71 @@
+
+
+body{
+    background-color: antiquewhite;
+    border: 0;
+    margin: 0;
+}
+
+html{
+    margin: 0;
+    border: 0;
+}
+
+header{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+}
+
+.header__Logo{
+    /* border: 1px solid red; */
+    width:100%;
+    height: 100%;
+
+}
+
+.Div__Header__Logo{
+    margin: 3px 3px 3px 10px;
+}
+.Div__Header__Icone{
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+    margin: 3px;
+}
+.Div__Header__Account{
+    margin: 3px 3px 10px 3px;
+}
+
+.header__Link__Logo{
+    /* border: 1px solid red; */
+    width:30%;
+    height: 100%;
+
+}
+
+.header__Link__Icone{
+    /* border: 1px solid red; */
+    display: block;
+    width:fit-content;
+    height: 100%;
+}
+.header__Link__Account{
+    /* border: 1px solid red; */
+    width:10%;
+    height: 100%;
+    border-radius: 10px;
+}
+.header__Icona{
+    height: 100%;
+}
+.header__Account{
+    height: 100%;
+    border-radius: 100%;
+}
+
 h1{
     text-align: center;
 }
